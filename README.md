@@ -19,11 +19,11 @@ This repository provides a Flask‑based web application that powers a chat assi
 
 ## Screenshots
 
-[](img/1.png)
+![](img/1.png)
 
-[](img/2.png)
+![](img/2.png)
 
-[](img/3.jpg)
+![](img/3.jpg)
 
 ## Project Structure
 
